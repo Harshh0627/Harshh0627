@@ -1,15 +1,15 @@
 [![MasterHead](https://i.redd.it/n8agw6z2smyb1.gif)](https://github.com/harshh0627)
 <h1 align="center">Hi 👋, I'm Harsh Maurya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently working on **Gen AI**
 
-- 💬 Ask me about **Html and CSS ,Python, Core Java ,SQL**
+- 💬 Ask me about **React.js ,Python, Core Java ,SQL, Figma**
 
 - 📫 How to reach me **mauryaharsh1023@gmail.com**
 
-- ⚡ Fun fact **Half developer, half caffeine enthusiast!**
+- ⚡ Fun fact **If it’s complex, I simplify it. If it’s simple, I perfect it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
