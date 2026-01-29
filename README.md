@@ -1,16 +1,66 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)](https://github.com/harshh0627)
-                                                        # 💫 About Me:
-                                                👋 Hi, I’m Harsh Maurya<br>
-                            <br>🚀 Full Stack Developer | Data Analytics Enthusiast | Gen AI Learner<br>
-                            <br>I’m a motivated Computer Science graduate with hands-on experience in building scalable web applications, analyzing data for insights, and exploring the power of Generative                                                         AI. I enjoy turning ideas into clean, functional, and user-centric products.<br>
-                            <br>🔭 I’m currently working on<br><br>Full-stack projects using React, Node.js & MongoDB<br><br>Improving backend performance & secure API integrations<br><br>Real-world data                                                                   analysis using SQL & visualization tools<br>
-                            <br>🤝 I’m looking to collaborate on<br><br>MERN stack projects<br><br>AI-powered web applications<br><br>Data-driven dashboards & analytics tools<br>
-                            <br>🧠 I’m currently learning<br><br>🤖 Generative AI (Prompt Engineering, AI APIs, use-cases in apps)<br>
-                            <br>📊 Data Analytics (SQL, data cleaning, dashboards, insights)<br>
-                            <br>☁️ Deployment & cloud-ready architectures<br>
-                            <br>💬 Ask me about<br><br>React.js, Node.js, MongoDB, SQL<br><br>Full-stack project architecture<br><br>Data cleaning, reporting & analysis<br><br>Turning ideas into                                                                                deployable products<br>
-                            <br>⚡ Fun fact<br><br>I don’t just write code — I debug ideas, optimize workflows, and automate problems before they become bugs 😄<br>
-                            <br>📫 Let’s Connect<br><br>📧 Email: mauryaharsh1023@gmail.com<br><br>💼 LinkedIn: (add your link)<br><br>🌐 Portfolio: (optional but recommended)<br><br>⭐ “Code. Analyze.                                                                         Innovate. Repeat.”
+                                                    # 👋 Hi, I'm Harsh Maurya
+
+🚀 **Full Stack Developer | Data Analytics Enthusiast | Gen AI Learner**
+
+I'm a motivated **Computer Science graduate** with hands-on experience in building scalable web applications, analyzing data for insights, and exploring the power of **Generative AI**.  
+I enjoy turning ideas into **clean, functional, and user-centric products**.
+
+---
+
+## 🛠️ What I'm Currently Working On
+
+- ⚡ Full-stack projects using **React, Node.js & MongoDB**
+- 🔐 Improving backend performance & building **secure API integrations**
+- 📊 Real-world data analysis using **SQL & visualization tools**
+
+---
+
+## 🤝 I'm Looking to Collaborate On
+
+- 🌐 **MERN stack projects**
+- 🤖 **AI-powered web applications**
+- 📈 **Data-driven dashboards & analytics tools**
+
+---
+
+## 📚 I'm Currently Learning
+
+- 🧠 **Generative AI**
+  - Prompt Engineering  
+  - AI APIs  
+  - Real-world use-cases in applications  
+
+- 📊 **Data Analytics**
+  - SQL & data cleaning  
+  - Dashboards & insights  
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend:**  
+`HTML` `CSS` `JavaScript` `React.js`
+
+**Backend:**  
+`Node.js` `Express.js` `MongoDB`
+
+**Data & Analytics:**  
+`SQL` `Power BI` `Excel`
+
+**Others:**  
+`Git` `GitHub` `REST APIs`
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: *(add your profile link here)*
+- 📧 Email: **mauryaharsh1023@gmail.com**
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*  
 
 
 ## 🌐 Socials:
