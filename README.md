@@ -55,7 +55,7 @@ I enjoy turning ideas into **clean, functional, and user-centric products**.
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: *(add your profile link here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/harsh-maurya-0127161b1/
 - 📧 Email: **mauryaharsh1023@gmail.com**
 
 ---
