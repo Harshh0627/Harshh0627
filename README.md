@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)](https://github.com/Harshh0627)
+[![MasterHead](https://github.com/shreejithns/shreejithns)](https://github.com/Harshh0627)
 
 <h1 align="center">👋 Hi, I'm Harsh Maurya</h1>
 <h3 align="center">Software Engineer Apprentice @ American Express</h3>
