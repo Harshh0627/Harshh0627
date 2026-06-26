@@ -1,82 +1,109 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)](https://github.com/harshh0627)
-                                                    # 👋 Hi, I'm Harsh Maurya
+```md
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)](https://github.com/Harshh0627)
 
-🚀 **Full Stack Developer | Data Analytics Enthusiast | Gen AI Learner**
+<h1 align="center">👋 Hi, I'm Harsh Maurya</h1>
+<h3 align="center">Software Engineer Apprentice @ American Express</h3>
 
-I'm a motivated **Computer Science graduate** with hands-on experience in building scalable web applications, analyzing data for insights, and exploring the power of **Generative AI**.  
-I enjoy turning ideas into **clean, functional, and user-centric products**.
+<p align="center">
+🚀 <b>Java • Spring Boot • React • SQL • REST APIs • Backend Development</b>
+</p>
+
+I'm a passionate **Computer Science graduate** currently working as a **Software Engineer Apprentice at American Express**.
+
+I enjoy building scalable backend services, designing clean REST APIs, developing full-stack applications, and continuously improving my software engineering skills through hands-on projects and DSA.
 
 ---
 
 ## 🛠️ What I'm Currently Working On
 
-- ⚡ Full-stack projects using **React, Node.js & MongoDB**
-- 🔐 Improving backend performance & building **secure API integrations**
-- 📊 Real-world data analysis using **SQL & visualization tools**
+- ☕ Building backend applications using **Java & Spring Boot**
+- 🔐 Developing secure **REST APIs**
+- ⚡ Practicing **Data Structures & Algorithms**
+- ☁️ Learning **Docker, AWS & Microservices**
+- 🌱 Contributing to personal full-stack projects
 
 ---
 
 ## 🤝 I'm Looking to Collaborate On
 
-- 🌐 **MERN stack projects**
-- 🤖 **AI-powered web applications**
-- 📈 **Data-driven dashboards & analytics tools**
+- Java & Spring Boot Projects
+- Open Source Contributions
+- Full Stack Web Applications
+- Developer Tools & Backend Systems
 
 ---
 
-## 📚 I'm Currently Learning
+## 📚 Currently Learning
 
-- 🧠 **Generative AI**
-  - Prompt Engineering  
-  - AI APIs  
-  - Real-world use-cases in applications  
-
-- 📊 **Data Analytics**
-  - SQL & data cleaning  
-  - Dashboards & insights  
+- Spring Boot
+- Microservices
+- System Design
+- Docker & CI/CD
+- AWS Cloud
+- Advanced DSA
 
 ---
 
-## 🧰 Tech Stack
+# 💻 Tech Stack
 
-**Frontend:**  
-`HTML` `CSS` `JavaScript` `React.js`
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Backend:**  
-`Node.js` `Express.js` `MongoDB`
+### Backend
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-**Data & Analytics:**  
-`SQL` `Power BI` `Excel`
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Others:**  
-`Git` `GitHub` `REST APIs`
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/harsh-maurya-0127161b1/
+- 💼 LinkedIn: https://linkedin.com/in/harsh-maurya-0127161b1
 - 📧 Email: **mauryaharsh1023@gmail.com**
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*  
+# 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=Harshh0627&show_icons=true&theme=tokyonight&hide_border=true)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Harsh Maurya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh._0627_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-maurya-0127161b1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauryaharsh1023@gmail.com) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Harshh0627&theme=tokyonight&hide_border=true)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harshh0627&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Harshh0627&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshh0627&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshh0627&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Harshh0627&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Harshh0627&theme=tokyonight&no-frame=true&row=1)
+
+---
+
+## 🐍 Contribution Graph
+
+![Snake animation](https://github.com/Harshh0627/Harshh0627/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+⭐ If you like my work, consider giving a ⭐ to my repositories!
+```
